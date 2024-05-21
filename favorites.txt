@@ -1,3 +1,8 @@
+Food:
 chole bhature
 Paneer do payaza
 paratha
+
+Movies:
+The Lord of the Rings
+The Dark Knight
